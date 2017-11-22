@@ -1,0 +1,28 @@
+{
+    "author": "julian@scheffers.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface-stripes",
+    "pebble": {
+        "displayName": "watchface-stripes",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "569744d8-e3af-48c7-971b-4f3810b81275",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
